@@ -207,4 +207,3 @@ int main(){
     int *ptr4 = ptr1 +3;
     cout<< (ptr1 == arr) << endl;
 }
-nhnngngnjn
